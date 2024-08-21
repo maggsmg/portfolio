@@ -1,9 +1,7 @@
-Welcome to this blog template by [cassidoo](https://cassidoo.co)!
+I am a Data Analyst with 5 years of experience. I have worked on data analytic projects with different industries(retail, consulting firms, fintech) providing metrics and reporting capabilities from c level management all the way to end users and clients. 
 
-It's using Astro and TinaCMS. You can [clone it on GitHub](https://github.com/cassidoo/blahg) to use it for yourself, and see how it works! I would _love_ if you told me when you do use it, I love seeing variations on it!
+Some of the systems and tools I have worked with had business objectives like resource planning, delivery capacity and standard operation metrics for daily activities. 
 
-The tags at the bottom of the page are dynamically generated. The more tags you use, the more tags are added to the list! Posts are simple markdown files.
+I have mainly used SQL and [Tableau](https://public.tableau.com/app/profile/magdalena.martinez/vizzes) for these projects but also have R and Python experience for predictive analysis. I recently graduated as a Master of Science in Business Analytics from University of Washington(Go Dawgs!).
 
-You should also check out [my newsletter](https://cassidoo.co/newsletter), or my word game [Jumblie](https://jumblie.com/?utm_campaign=blahgtmp&utm_source=github), or my [GitHub profile](https://github.com/cassidoo). Or don't. Follow your dreams.
-
-Enjoy!
+Big fan of reading, running, cooking, lakes and spending time with my loved ones.

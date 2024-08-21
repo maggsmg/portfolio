@@ -77,20 +77,20 @@ export default defineConfig({
 								label: "Technical",
 							},
 							{
-								value: "advice",
-								label: "Advice",
+								value: "r",
+								label: "R",
 							},
 							{
-								value: "events",
-								label: "Events",
+								value: "tableau",
+								label: "Tableau",
 							},
 							{
 								value: "learning",
 								label: "Learning",
 							},
 							{
-								value: "meta",
-								label: "Meta",
+								value: "sql",
+								label: "SQL",
 							},
 							{
 								value: "work",
@@ -101,8 +101,12 @@ export default defineConfig({
 								label: "Personal",
 							},
 							{
-								value: "musings",
-								label: "Musings",
+								value: "predictive",
+								label: "Predictive",
+							},
+							{
+								value: "python",
+								label: "Python",
 							},
 						],
 					},
