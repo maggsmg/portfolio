@@ -5,6 +5,7 @@ import vercel from '@astrojs/vercel/serverless';
 export default defineConfig({
 	site: "https://blahg.netlify.app/",
 	base: "/",
+	output: 'server',
 	adapter: vercel({
 		webAnalytics: { enabled: true }
 	  }),
